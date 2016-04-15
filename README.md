@@ -1,2 +1,3 @@
 # hello-world
 Test repository for a first timer
+Just following the github tutorial on creating a repository, creating branches, and commits.  I'm taking an introductory course in Data Science through Johns Hopkins on the Coursera platform.  I'm a seasoned management professional with a background in Finance and Operations (Manufacturing, Supply Chain/Logistics).  I'm also interested in Computer Science and sometimes regret not pursing it as my college major (instead I pursued mathematical economics).  I think Data Science might be a good way for me to apply new found skills in coding as well as leverage my business acumen, problem-solving, and critical thinking skills.
